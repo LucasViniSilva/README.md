@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋! Olá meu nome é Lucas</h2>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 ###
 
 <div align="left">
