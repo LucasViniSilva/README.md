@@ -1,4 +1,7 @@
 <h2 align="left">Hi 👋! Olá meu nome é Lucas</h2>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 ###
 
@@ -17,6 +20,9 @@
 </div>
 
 ###
+
+
+
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
