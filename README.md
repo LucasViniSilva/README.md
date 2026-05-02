@@ -2,7 +2,10 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-
+<p>
+  Me chamo Lucas Vinicius Mariano da Silva tenho 24 anos e sou apaixonado por tecnologia, começei na área de suporte técnico e hoje eu busco me reinserir no mercado, desta vez como densenvolver.
+  Obrigado por ter chegado até aqui, espero que goste...
+</p>
 ###
 
 <div align="left">
